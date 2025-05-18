@@ -1,6 +1,7 @@
 #include <stdio.h>
+123ishuohosdh
 
-int main() {
+int main() 
 
     int num, num2,num3, sum,result2;
 
@@ -21,5 +22,4 @@ int main() {
     
     printf("The sum of %d and %d is %d.", num1, num2, sum);
     
-    return 0;
-}
+    
